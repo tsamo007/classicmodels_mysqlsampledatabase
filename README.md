@@ -1,4 +1,4 @@
-# classicmodels_mysqlsampledatabase
+# tp_classicmodels_mysqlsampledatabase
 
 ## Source: https://www.mysqltutorial.org/mysql-sample-database.aspx
 
