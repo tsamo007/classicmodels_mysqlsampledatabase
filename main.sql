@@ -1,4 +1,5 @@
-* Identifier le bureau (Office) qui accueille  le plus d’employés
+# Identifier le bureau (Office) qui accueille  le plus d’employés
+
 USE classicmodels;
 select count(*)as Total ,officeCode,lastName,firstName,city
 from employees
